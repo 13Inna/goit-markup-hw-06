@@ -885,6 +885,7 @@ ul {
   margin: 12px 16px;
   resize: none;
   border: none;
+  outline: none;
 }
 
 .modal-comment::placeholder {
